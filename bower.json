@@ -1,0 +1,36 @@
+{
+  "name": "instagram",
+  "authors": [
+    "Anton Denisenko <milomory@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "owl-carousel": "^1.3.2",
+    "flexslider": "^2.6.3",
+    "rs-plugin": "*",
+    "isotope": "^3.0.1",
+    "magnific-popup": "^1.1.0",
+    "jquery-ui": "^1.12.1",
+    "font-awesome": "^4.6.3",
+    "icomoon-bower": "icomoon#^0.1.2",
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.7",
+    "menu.js": "^0.3.0",
+    "jflickrfeed": "*",
+    "jquery.easy-pie-chart": "easypie#^2.1.6",
+    "gmaps": "^0.4.24",
+    "jquery.easing": "^1.3.1",
+    "jquery_appear": "jquery.appear.js#^0.3.6",
+    "protonet/jquery.inview": "jquery.inview#^1.1.2"
+  }
+}
